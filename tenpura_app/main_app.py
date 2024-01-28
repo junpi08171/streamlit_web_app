@@ -9,5 +9,5 @@ st.title('てんぷらアプリ')
 st.caption('これはてんぷらの練習用のテストアプリです')
 
 # 画像
-image = Image.open('./data/プリニー族A.jpg')
+image = Image.open('tenpura_app/data/プリニー族A.jpg')
 st.image(image, width=200)
